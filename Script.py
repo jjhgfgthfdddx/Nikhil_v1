@@ -1,16 +1,11 @@
 class script(object):
-    START_TXT = """
-<b>
-𝐻𝑒𝑙𝑙𝑜 👋 {}</b>😍
+    START_TXT = """<b>𝖧𝖾𝗒 {}, 𝖨 𝖠𝗆 <a href=https://t.me/{}>{}</a>, 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
 
+𝖨𝖺𝗆 𝖯𝗈𝗐𝖾𝗋𝖥𝗎𝗅𝗅 𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 + 𝖬𝗈𝗏𝗂𝖾 𝖲𝖾𝖺𝗋𝖼𝗁 + 𝖬𝖺𝗇𝗎𝖺𝗅 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 ⚙
 
-<b>I'ᴍ <a href=https://t.me/{}>{}</a> Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ1 🫶</b>
+𝖨𝖺𝗆 𝖠 𝖡𝗈𝗍 𝖯𝗋𝗈𝗏𝗂𝖽𝗂𝗇𝗀 𝖬𝗈𝗏𝗂𝖾𝗌 𝖠𝗇𝖽 𝖲𝖾𝗋𝗂𝖾𝗌 𝖲𝗈 𝖠𝖽𝖽 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖥𝖺𝗆. 𝖳𝗁𝖾𝗇 𝖨 𝖶𝗂𝗅𝗅 𝗌𝖾𝗇𝗍 𝖳𝗁𝖾 𝖬𝗈𝗏𝗂𝖾𝗌⏳
 
-<b>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ <a href=https://t.me/+Q8PH1M-vZzk2YmM1> 𝐆𝐑𝐎𝐔𝐏 </a>..!! 💫</b>
-
-<b>📌 Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>
-
-<b>🍂 Oᴡɴᴇʀ : @tg_tarzan</b>"""
+𝖢𝗅𝗂𝖼𝗄 𝖡𝖾𝗅𝗈𝗐 𝖴𝗌𝖾𝖿𝗎𝗅 𝖡𝗎𝗍𝗍𝗈𝗇𝗌🫶</b>"""
     
     ABOUT_TXT = """<b>🤖 𝑴𝒚 𝑵𝒂𝒎𝒆 : <a href=https://t.me/{}>{}</a>
     
@@ -22,14 +17,19 @@ class script(object):
 
 👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/tg_tarzan'>тαя𝘇αη</a>
 
-👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href=https://t.me/+Q8PH1M-vZzk2YmM1> 𝐆𝐑𝐎𝐔𝐏 </a>
+👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href=https://t.me/+JRWRXAzDwkc2NDA1> 𝐆𝐑𝐎𝐔𝐏 </a>
 
 📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>"""
 
-    AUTOFILTER_TXT = """<b>
- Bro Or Sis, ഈ ഒരു ബോട്ട് <a href=https://t.me/+Q8PH1M-vZzk2YmM1> 𝐆𝐑𝐎𝐔𝐏 </a> ൻ്റെ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ1 ആണ്, ബോട്ട് Owner ഡെ പർമ്മിഷൻ ഇല്ലാതെ മറ്റു ഗ്രൂപ്പുകളിൽ ഒന്നും ഈ ബോട്ടിനെ യൂസ് ചെയ്യാൻ കഴിയില്ല..!!  🤗⚠
+    AUTOFILTER_TXT = """<b>Help : Auto Filter
+    
+NOTE:
+1. Make me the admin of your channel if it's private.
+2. make sure that your channel does not contains camrips, porn and fake files.
+3. Forward the last message to me with quotes.
+ I'll add all the files in that channel to my db.
 
-️📌 𝗔𝗻𝘆 𝗛𝗲𝗹𝗽 𝗣𝗹𝗲𝗮𝘀𝗲 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗔𝗱𝗺𝗶𝗻 : @tg_tarzan</b>"""
+️📌 𝗔𝗻𝘆 𝗛𝗲𝗹𝗽 𝗣𝗹𝗲𝗮𝘀𝗲 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗔𝗱𝗺𝗶𝗻 : @MCU_ADMIN_V1_BOT</b>"""
 
     BOTINFO_TXT = """<b>𝖧𝖾𝗒 𝖡𝗋𝗈 𝖨𝖺𝗆 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
  
@@ -242,6 +242,26 @@ Series - Dark S01E01
 𝖶𝗂𝗍𝗁 𝖳𝗁𝗂𝗌 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖶𝗂𝗅𝗅 𝖴𝗇𝖽𝖾𝗋𝗌𝗍𝖺𝗇𝖽 𝖧𝗈𝗐 𝖳𝗈 𝖴𝗌𝖾 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍🏌️
     
 𝖢𝗁𝖾𝖼𝗄 𝖡𝖾𝗅𝗈𝗐 𝖧𝖾𝗅𝗉 𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝗌🤍</b>"""
+
+    MCAHU_TXT = """<b>The new command features are listed below. More features coming soon
+    
+/start - Welcome🤗 (Help , About and others)
+    
+/setchat - force Sub Channel ID
+
+/viewchat - which force sub running chek
+
+/delchat - Delete Requests (force Sub)
+
+/stats - Check Stats
+
+/deletefiles - Movie name all Files delete 
+
+/ping - Bot Speed , Cpu etc
+
+/restart - Restart ✅
+
+/logs - bot logs txt</b>"""
   
     CUSTOM_FILE_CAPTION = """<b>𝐻𝑒𝑙𝑙𝑜 👋 {mention} 😍
 
@@ -250,8 +270,8 @@ Series - Dark S01E01
 ⚙️ Fɪʟᴇ Sɪᴢᴇ :  {file_size}
 
  ╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
- ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+JRWRXAzDwkc2NDA1> 𝐆𝐑𝐎𝐔𝐏 </a>
- ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
+ ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+lDU_yeyF6WMwYjVl> 𝐆𝐑𝐎𝐔𝐏 </a>
+ ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+mKFmz9pYLkc5Njhl> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
  ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
     
     STATUS_TXT = """📂 𝖳𝗈𝗍𝖺𝗅 𝖥𝗂𝗅𝖾𝗌     - <code>{}</code>
