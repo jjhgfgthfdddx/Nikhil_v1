@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/n7L.jpg" alt="AC-Filter-Bot Logo">
+  <img src="https://telegra.ph/file/dac6509fb6689e5d8fb75.jpg" alt="AC-Filter-Bot Logo">
 </p>
 <h1 align="center">
  AC FILTER BOT
