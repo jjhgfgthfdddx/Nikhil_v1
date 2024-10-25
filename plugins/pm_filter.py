@@ -928,8 +928,10 @@ async def auto_filter(client, msg, spoll=False):
     else:
         offset = 0    
         
-    if offset== 0:        
-        
+    if offset== 0:   
+        btn.append(
+                    [InlineKeyboardButton(text="🎬 𝑹𝑬𝑸𝑼𝑬𝑺𝑻 𝑮𝑹𝑶𝑼𝑷 🎬", url=f"https://t.me/+XzVIX3lhqzAyYTQ1")]
+        )        
     else:
         key = f"{message.chat.id}-{message.id}"
         BUTTONS[key] = search
