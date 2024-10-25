@@ -23,7 +23,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '6801338071:AAFwpNXztmhYZYMEUCa_LiGL6IW6RJC
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/5de2a87af196bcd866b7f.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/39b86f6dc3e12c8976f2b.jpg https://telegra.ph/file/ba3a4e5685ffce4ee9fa2.jpg https://telegra.ph/file/2cad110c8592f881e347d.jpg https://telegra.ph/file/dac6509fb6689e5d8fb75.jpg https://telegra.ph/file/e748da46b2027988f8b01.jpg https://telegra.ph/file/62341d24b79470358f6bd.jpg https://telegra.ph/file/4780d98d162cbad0b49d8.jpg https://telegra.ph/file/8492c75920649eec4c204.jpg https://telegra.ph/file/8492c75920649eec4c204.jpg https://telegra.ph/file/64bc779495cecfe6c707d.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/5de2a87af196bcd866b7f.jpg")
 
 # Admins, Channels & Users
