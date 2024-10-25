@@ -17,9 +17,9 @@ class script(object):
 
 👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='http://t.me/MCU_ADMIN_V1_BOT'>𝐍𝐚𝐳𝐫𝐢𝐲𝐚 𝐀𝐝𝐦𝐢𝐧</a>
 
-👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href=https://t.me/+JRWRXAzDwkc2NDA1> 𝐆𝐑𝐎𝐔𝐏 </a>
+👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href=https://t.me/+3P_LfAbmDv5jMzM1> 𝐆𝐑𝐎𝐔𝐏 </a>
 
-📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>"""
+📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href=https://t.me/+mKFmz9pYLkc5Njhl> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>"""
 
     AUTOFILTER_TXT = """<b>Help : Auto Filter
     
@@ -270,7 +270,7 @@ Series - Dark S01E01
 ⚙️ Fɪʟᴇ Sɪᴢᴇ :  {file_size}
 
  ╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
- ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+lDU_yeyF6WMwYjVl> 𝐆𝐑𝐎𝐔𝐏 </a>
+ ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+3P_LfAbmDv5jMzM1> 𝐆𝐑𝐎𝐔𝐏 </a>
  ➲ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+mKFmz9pYLkc5Njhl> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
  ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>""" 
     
